@@ -1,2 +1,2 @@
-# Stats_notebooks
+# Statistics notebooks
 Statistics notebooks to demonstrate statistical methods
